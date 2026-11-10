@@ -1,0 +1,153 @@
+layer,basin,best_scale,r
+SMDI,Han,3,0.673
+SMDI,Anseong,3,0.728
+SMDI,Han (West),4,0.728
+SMDI,Han (East),4,0.708
+SMDI,Nakdong,3,0.701
+SMDI,Hyeongsan,3,0.69
+SMDI,Taewha,3,0.698
+SMDI,Hoiya,3,0.719
+SMDI,Nakdong (East),4,0.742
+SMDI,Nakdong (South),3,0.751
+SMDI,Geum,3,0.726
+SMDI,Sapgyo,4,0.722
+SMDI,Geum (West),4,0.739
+SMDI,Mangyeongdongjin,3,0.746
+SMDI,Seomjin,3,0.723
+SMDI,Seomjin (South),3,0.787
+SMDI,Yeongsan,3,0.783
+SMDI,Tamjin,3,0.79
+SMDI,Yeongsan (South),3,0.777
+SMDI,Yeongsan (West),3,0.772
+SMDI,JejuIsland,3,0.693
+SRI-1,Han,2,0.864
+SRI-1,Anseong,2,0.85
+SRI-1,Han (West),2,0.853
+SRI-1,Han (East),2,0.881
+SRI-1,Nakdong,2,0.865
+SRI-1,Hyeongsan,2,0.87
+SRI-1,Taewha,2,0.86
+SRI-1,Hoiya,2,0.858
+SRI-1,Nakdong (East),2,0.878
+SRI-1,Nakdong (South),2,0.851
+SRI-1,Geum,2,0.873
+SRI-1,Sapgyo,2,0.861
+SRI-1,Geum (West),3,0.869
+SRI-1,Mangyeongdongjin,2,0.876
+SRI-1,Seomjin,2,0.87
+SRI-1,Seomjin (South),2,0.866
+SRI-1,Yeongsan,2,0.866
+SRI-1,Tamjin,2,0.87
+SRI-1,Yeongsan (South),2,0.866
+SRI-1,Yeongsan (West),2,0.882
+SRI-1,JejuIsland,2,0.885
+SRSI,Han,7,0.512
+SRSI,Nakdong,10,0.741
+SRSI,Taewha,8,0.541
+SRSI,Geum,8,0.536
+SRSI,Geum (West),9,0.64
+SRSI,Mangyeongdongjin,9,0.532
+SRSI,Seomjin,12,0.662
+SRSI,Tamjin,12,0.599
+SGI (alluvial),Han,3,0.67
+SGI (alluvial),Anseong,20,0.643
+SGI (alluvial),Han (West),12,0.708
+SGI (alluvial),Han (East),3,0.64
+SGI (alluvial),Nakdong,2,0.701
+SGI (alluvial),Hyeongsan,2,0.593
+SGI (alluvial),Taewha,3,0.596
+SGI (alluvial),Hoiya,3,0.422
+SGI (alluvial),Nakdong (East),3,0.601
+SGI (alluvial),Geum,7,0.698
+SGI (alluvial),Sapgyo,3,0.622
+SGI (alluvial),Geum (West),2,0.596
+SGI (alluvial),Mangyeongdongjin,6,0.691
+SGI (alluvial),Seomjin,3,0.629
+SGI (alluvial),Seomjin (South),2,0.525
+SGI (alluvial),Yeongsan,3,0.637
+SGI (alluvial),Tamjin,2,0.656
+SGI (alluvial),Yeongsan (West),3,0.535
+SGI (bedrock),Han,3,0.694
+SGI (bedrock),Anseong,11,0.739
+SGI (bedrock),Han (West),9,0.658
+SGI (bedrock),Han (East),2,0.651
+SGI (bedrock),Nakdong,3,0.718
+SGI (bedrock),Hyeongsan,8,0.498
+SGI (bedrock),Taewha,2,0.524
+SGI (bedrock),Hoiya,8,0.638
+SGI (bedrock),Nakdong (East),3,0.66
+SGI (bedrock),Nakdong (South),4,0.589
+SGI (bedrock),Geum,4,0.726
+SGI (bedrock),Sapgyo,4,0.616
+SGI (bedrock),Geum (West),3,0.697
+SGI (bedrock),Mangyeongdongjin,5,0.714
+SGI (bedrock),Seomjin,2,0.671
+SGI (bedrock),Seomjin (South),11,0.668
+SGI (bedrock),Yeongsan,3,0.61
+SGI (bedrock),Tamjin,2,0.619
+SGI (bedrock),Yeongsan (South),4,0.639
+SGI (bedrock),Yeongsan (West),5,0.674
+SGI (bedrock),JejuIsland,10,0.698
+SGI,Han,3,0.687
+SGI,Anseong,12,0.736
+SGI,Han (West),12,0.689
+SGI,Han (East),2,0.669
+SGI,Nakdong,2,0.717
+SGI,Hyeongsan,2,0.563
+SGI,Taewha,2,0.574
+SGI,Hoiya,7,0.578
+SGI,Nakdong (East),3,0.66
+SGI,Nakdong (South),3,0.555
+SGI,Geum,4,0.721
+SGI,Sapgyo,3,0.637
+SGI,Geum (West),3,0.708
+SGI,Mangyeongdongjin,5,0.712
+SGI,Seomjin,3,0.672
+SGI,Seomjin (South),5,0.657
+SGI,Yeongsan,3,0.639
+SGI,Tamjin,2,0.654
+SGI,Yeongsan (South),4,0.639
+SGI,Yeongsan (West),5,0.653
+SGI,JejuIsland,10,0.698
+GWDI,Han,4,0.682
+GWDI,Anseong,4,0.71
+GWDI,Han (West),5,0.683
+GWDI,Han (East),5,0.742
+GWDI,Nakdong,4,0.767
+GWDI,Hyeongsan,4,0.698
+GWDI,Taewha,5,0.705
+GWDI,Hoiya,4,0.72
+GWDI,Nakdong (East),4,0.652
+GWDI,Nakdong (South),3,0.779
+GWDI,Geum,4,0.736
+GWDI,Sapgyo,4,0.721
+GWDI,Geum (West),4,0.739
+GWDI,Mangyeongdongjin,4,0.729
+GWDI,Seomjin,3,0.754
+GWDI,Seomjin (South),4,0.692
+GWDI,Yeongsan,4,0.682
+GWDI,Tamjin,11,0.657
+GWDI,Yeongsan (South),5,0.649
+GWDI,Yeongsan (West),5,0.708
+GWDI,JejuIsland,8,0.71
+WSDI,Han,4,0.695
+WSDI,Anseong,4,0.718
+WSDI,Han (West),4,0.688
+WSDI,Han (East),5,0.75
+WSDI,Nakdong,3,0.777
+WSDI,Hyeongsan,4,0.71
+WSDI,Taewha,5,0.713
+WSDI,Hoiya,4,0.729
+WSDI,Nakdong (East),4,0.668
+WSDI,Nakdong (South),3,0.795
+WSDI,Geum,4,0.747
+WSDI,Sapgyo,4,0.727
+WSDI,Geum (West),4,0.739
+WSDI,Mangyeongdongjin,3,0.738
+WSDI,Seomjin,3,0.768
+WSDI,Seomjin (South),4,0.708
+WSDI,Yeongsan,4,0.688
+WSDI,Tamjin,10,0.655
+WSDI,Yeongsan (South),5,0.652
+WSDI,Yeongsan (West),5,0.711
+WSDI,JejuIsland,8,0.708

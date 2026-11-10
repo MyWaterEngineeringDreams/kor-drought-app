@@ -1,0 +1,21 @@
+model,pr_rank,tas_rank,composite,top_freq_pct,rank,pm_inputs_complete,pm_inputs_missing,selected
+EC-Earth3,2.714,6.0,4.357,100.0,1,True,,True
+MRI-ESM2-0,5.857,8.167,7.012,99.05,2,True,,True
+MPI-ESM1-2-LR,9.714,5.833,7.774,96.4,3,True,,True
+NorESM2-MM,5.857,9.833,7.845,96.25,4,True,,True
+CNRM-ESM2-1,10.0,8.667,9.333,81.8,5,True,,True
+CMCC-ESM2,8.857,9.833,9.345,85.7,6,True,,True
+GFDL-ESM4,10.286,9.5,9.893,66.25,7,True,,True
+GISS-E2-1-G,11.714,8.167,9.94,68.8,8,True,,False
+CNRM-CM6-1,8.857,11.5,10.179,70.6,9,True,,False
+UKESM1-0-LL,8.714,12.5,10.607,53.35,10,True,,True
+NorESM2-LM,13.857,7.833,10.845,37.35,11,True,,False
+INM-CM5-0,8.143,14.667,11.405,32.4,12,True,,True
+ACCESS-ESM1-5,9.714,13.167,11.44,27.15,13,True,,False
+MIROC6,11.714,11.333,11.524,19.5,14,True,,False
+BCC-CSM2-MR,10.429,12.667,11.548,26.6,15,False,"hurs/historical, hurs/ssp126, hurs/ssp245, hurs/ssp585",False
+ACCESS-CM2,12.429,11.667,12.048,12.0,16,True,,False
+CanESM5,13.857,10.667,12.262,11.65,17,True,,True
+FGOALS-g3,16.571,9.0,12.786,5.55,18,True,,False
+MIROC-ES2L,11.429,14.167,12.798,9.6,19,True,,False
+KACE-1-0-G,19.286,14.833,17.06,0.0,20,True,,False

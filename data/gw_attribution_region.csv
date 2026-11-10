@@ -1,0 +1,7 @@
+region,n_wells,climate_R2_median,trend_obs_cm_yr,trend_climate_cm_yr,trend_residual_cm_yr,share_declining,share_rising,gr2m_trend_residual_cm_yr
+Han,126.0,0.298,-0.404,-0.144,-0.191,0.349,0.27,-0.569
+Jeju,4.0,0.437,14.666,5.934,9.219,0.0,0.5,15.307
+South,292.0,0.223,-0.237,0.136,-0.374,0.366,0.199,-0.572
+National (excl. Jeju),418.0,0.248,-0.248,0.059,-0.329,0.361,0.22,-0.569
+National alluvial,144.0,0.232,-0.557,0.045,-0.51,0.396,0.208,-0.629
+National bedrock,274.0,0.256,-0.178,0.072,-0.29,0.343,0.226,-0.504
