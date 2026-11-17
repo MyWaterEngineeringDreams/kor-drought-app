@@ -64,9 +64,7 @@ Only the `App` folder goes into this repository. The processing code, inputs and
 1. Sign in at https://share.streamlit.io with the same GitHub account and authorise access to private repositories.
 2. *Create app → Deploy a public app from GitHub*: repository `MyWaterEngineeringDreams/kor-drought-app`, branch `main`,
    main file `streamlit_app.py`. Choose a custom subdomain if wanted.
-3. In the app's *Settings → Sharing*, keep the app **private** and invite reviewers or co-authors by email.
-   Only invited accounts can open it.
-4. Every push to `main` redeploys the app.
+3. Every push to `main` redeploys the app.
 
 
 ## Structure
