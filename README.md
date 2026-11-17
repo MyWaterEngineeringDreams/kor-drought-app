@@ -68,8 +68,6 @@ Only the `App` folder goes into this repository. The processing code, inputs and
    Only invited accounts can open it.
 4. Every push to `main` redeploys the app.
 
-After acceptance, make the repository public, set sharing to public, add the article DOI to the
-*Data and methods* page and archive a release on Zenodo for a citable DOI.
 
 ## Structure
 
