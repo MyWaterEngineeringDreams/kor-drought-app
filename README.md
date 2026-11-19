@@ -1,4 +1,4 @@
-# Drought propagation in 21 Korean river basins: interactive results
+# Atmosphere-to-aquifer drought propagation in 21 Korean river basins: interactive results
 
 Interactive web app companion to the manuscript *Observation-constrained hydrological modelling of atmosphere-to-aquifer drought propagation reveals persistent reservoir deficits, non-climatic groundwater decline and little relief under future warming in South Korean monsoon basins* to Journal of Hydrology (under review).
 
